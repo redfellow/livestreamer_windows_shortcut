@@ -6,5 +6,5 @@
 
 ## Bla bla
 
-Requires: https://github.com/chrippa/livestreamer/releases
-Uses: http://www.c3scripts.com/tutorials/msdos/paste.html for grabbing text from clipboard.
+* Requires: https://github.com/chrippa/livestreamer/releases
+* Uses: http://www.c3scripts.com/tutorials/msdos/paste.html for grabbing text from clipboard.
