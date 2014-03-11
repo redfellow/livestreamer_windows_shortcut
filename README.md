@@ -1,6 +1,6 @@
 # How to use
 
-<b>Download: <a href="https://github.com/rnyberg/livestreamer_windows_shortcut/archive/master.zip">https://github.com/rnyberg/livestreamer_windows_shortcut/archive/master.zip</a></b>
+Download: <b> <a href="https://github.com/rnyberg/livestreamer_windows_shortcut/archive/master.zip">https://github.com/rnyberg/livestreamer_windows_shortcut/archive/master.zip</a></b>
 
 1. Extract the zip so that files are in <b>C:\open_stream\ </b> (Has to be exactly that!)
 2. Drag the "Open Stream" shortcut to your task bar
